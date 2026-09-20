@@ -1,0 +1,54 @@
+product_id,manufacturer,product_name,category,material,width_mm,height_mm,depth_mm,weight_kg,unit_price_gbp,currency,lead_time_days,source_document
+AXP-1001,Aster Build Systems,ClearView Fixed Window,Window,Aluminium,1200,1500,95,42.5,485.00,GBP,21,aster_windows_2026.pdf
+AXP-1002,Aster Build Systems,ClearView Opening Window,windows,aluminum,900,1200,95,34.2,415.00,gbp,21,aster_windows_2026.pdf
+AXP-1003,NovaDoor Works,OakLine Internal Door,Door,Oak,813,2032,44,28.0,275.50,GBP,14,novadoor_catalogue.pdf
+AXP-1004,NovaDoor Works,SecureCore External Door,Doors,Steel,900,2100,55,64.8,760.00,GBP,28,novadoor_catalogue.pdf
+AXP-1005,TerraTile Industries,StoneGrey Floor Tile,Flooring,Porcelain,600,600,10,8.1,24.90,GBP,10,terratile_price_list.xlsx
+AXP-1006,TerraTile Industries,Stone Grey Floor Tile,floor tile,porcelain,60 cm,600,10,8.1,24.90,GBP,10,terratile_price_list.xlsx
+AXP-1007,Luma Lighting,Arc Pendant Light,Lighting,Aluminium,420,310,420,3.4,189.00,GBP,18,luma_arc_datasheet.pdf
+AXP-1008,Luma Lighting,Linear Office Light,Light,aluminium,1200,55,75,4.1,132.00,GBP,12,luma_linear.pdf
+AXP-1008,Luma Lighting,Linear Office Light,Lighting,Aluminium,1200,55,75,4.1,132.00,GBP,12,luma_linear.pdf
+AXP-1010,AquaForm,Flow Basin 550,Sanitaryware,Ceramic,550,165,420,12.7,146.00,GBP,16,aquaform_basins.pdf
+AXP-1011,AquaForm,Flow WC Suite,Bathroom,Ceramic,375,790,650,38.0,329.00,GBP,16,aquaform_wc.pdf
+AXP-1012,ThermaWall,CoreBoard 90,Insulation,Mineral wool,1200,2400,90,18.5,41.20,GBP,9,thermawall_coreboard.pdf
+AXP-1013,ThermaWall,CoreBoard 140,Insulation,mineral Wool,1200,2400,140,27.8,58.70,GBP,9,thermawall_coreboard.pdf
+AXP-1014,SteelSpan,Universal Beam 203,Structure,Steel,203,133,6000,152.0,286.00,GBP,30,steelspan_sections.csv
+AXP-1015,SteelSpan,Universal Column 254,Structural,steel,254,254,6000,439.0,615.00,GBP,35,steelspan_sections.csv
+AXP-1016,EcoRoof Systems,GreenRoof Drainage Board,Roofing,HDPE,1000,2000,25,4.6,36.75,GBP,20,ecoroof_greenroof.pdf
+AXP-1017,EcoRoof Systems,Standing Seam Panel,Roof,Aluminium,500,3000,40,13.5,88.90,GBP,25,ecoroof_panels.pdf
+AXP-1018,ClimaTech,VentPro Supply Diffuser,HVAC,Steel,600,600,80,6.2,94.00,GBP,15,climatech_ventpro.pdf
+AXP-1019,ClimaTech,VentPro Return Grille,Mechanical,Steel,600,300,50,3.1,68.00,GBP,15,climatech_ventpro.pdf
+AXP-1020,VoltEdge,PowerPoint Twin Socket,Electrical,Polycarbonate,86,86,35,0.18,9.85,GBP,7,voltedge_accessories.pdf
+AXP-1021,VoltEdge,LED Dimmer Module,Electrical,poly carbonate,86,86,42,0.21,27.50,GBP,7,voltedge_accessories.pdf
+AXP-1022,StoneCraft,Quartz Worktop Arctic White,Worktop,Quartz,650,3000,20,97.5,425.00,GBP,22,stonecraft_quartz.pdf
+AXP-1023,StoneCraft,Quartz Worktop Night Black,Kitchen,Quartz,650,3000,20,98.2,449.00,GBP,22,stonecraft_quartz.pdf
+AXP-1024,TimberLab,Acoustic Slat Panel,Wall finish,MDF and felt,600,2400,21,11.8,78.50,GBP,12,timberlab_acoustic.pdf
+AXP-1025,TimberLab,Oak Veneer Wall Panel,Wall Finish,Oak veneer,1200,2400,18,24.0,118.00,GBP,18,timberlab_panels.pdf
+AXP-1026,SafeGuard,FD60 Fire Door Set,Fire safety,Timber composite,926,2040,54,61.0,895.00,GBP,35,safeguard_firedoors.pdf
+AXP-1027,SafeGuard,Smoke Detector Optical,Fire Safety,ABS,100,45,100,0.16,32.80,GBP,8,safeguard_detection.pdf
+AXP-1028,UrbanGlass,Frameless Balustrade Panel,Balustrade,Toughened glass,1000,1100,15,41.3,238.00,GBP,24,urbanglass_balustrades.pdf
+AXP-1029,UrbanGlass,Frameless Balustrade Panel,Balustrade,Toughened Glass,1000,1100,15,41.3,238.00,GBP,24,urbanglass_balustrades.pdf
+AXP-1030,HydroPipe,PPR Cold Water Pipe,Plumbing,Polypropylene,25,4000,25,0.72,8.40,GBP,6,hydropipe_ppr.csv
+AXP-1031,HydroPipe,PPR Hot Water Pipe,Plumbing,Polypropylene,32,4000,32,1.05,12.60,GBP,6,hydropipe_ppr.csv
+AXP-1032,FloorForm,Raised Access Floor Panel,Flooring,Calcium sulphate,600,600,32,18.9,48.00,GBP,26,floorform_raised_access.pdf
+AXP-1033,FloorForm,Entrance Mat Module,Flooring,Aluminium and textile,500,1000,22,9.4,,GBP,19,floorform_mats.pdf
+AXP-1034,ShadeLine,External Louvre 200,Facade,Aluminium,200,3000,45,16.2,175.00,GBP,27,shadeline_louvres.pdf
+AXP-1035,ShadeLine,External Louvre 300,Façade,Aluminium,300,3000,45,21.7,205.00,GBP,27,shadeline_louvres.pdf
+AXP-1036,GreenFlow,Rainwater Harvest Tank 2500,Water,Polyethylene,1420,1650,1420,92.0,680.00,GBP,20,greenflow_tanks.pdf
+AXP-1037,GreenFlow,Rainwater Harvest Tank 5000,Water,Polyethylene,1800,2200,1800,155.0,1120.00,GBP,30,greenflow_tanks.pdf
+AXP-1038,MetroBrick,Clay Face Brick Red,Brickwork,Clay,222,73,106,2.7,0.82,GBP,11,metrobrick_range.xlsx
+AXP-1039,MetroBrick,Clay Face Brick Buff,Masonry,clay,222,73,106,2.7,£0.88,GBP,11,metrobrick_range.xlsx
+AXP-1040,FlexSeal,Weatherproof Joint Sealant,Sealant,Silicone,50,230,50,0.31,7.90,GBP,5,flexseal_products.pdf
+AXP-1041,FlexSeal,Fire Rated Joint Sealant,Firestop,Silicone,50,230,50,0.34,12.40,GBP,5,flexseal_products.pdf
+AXP-1042,SolarPeak,Mono PV Panel 450,Solar,Monocrystalline silicon,1134,1909,35,23.5,148.00,GBP,32,solarpeak_450.pdf
+AXP-1043,SolarPeak,Hybrid Inverter 8kW,Electrical,Steel and electronics,520,610,210,28.0,1650.00,GBP,40,solarpeak_inverters.pdf
+AXP-1044,AirPure,HEPA Filter Module,HVAC,Glass fibre,610,610,292,14.2,116.00,GBP,-5,airpure_filters.pdf
+AXP-1045,QuietBuild,Acoustic Ceiling Tile,Ceiling,Mineral fibre,600,600,15,3.2,11.75,GBP,13,quietbuild_ceiling.pdf
+AXP-1046,QuietBuild,Acoustic Ceiling Tile,Ceilings,Mineral fiber,600,600,15,3.2,11.75,GBP,13,quietbuild_ceiling.pdf
+AXP-1047,ParkLine,Bicycle Rack Five Space,External works,Stainless steel,1800,800,650,34.0,245.00,GBP,17,parkline_street.pdf
+AXP-1048,ParkLine,Timber Bench 1800,Landscape,Timber and steel,1800,450,520,48.0,390.00,GBP,21,parkline_street.pdf
+AXP-1049,AccessWay,Automatic Sliding Door,Entrance,Aluminium and glass,1800,2400,140,175.0,2750.00,GBP,45,accessway_automatic.pdf
+,AccessWay,Accessible Threshold,Door accessory,Aluminium,1000,15,120,2.8,42.00,GBP,12,accessway_thresholds.pdf
+AXP-1051,Aster Build Systems,,Window,Aluminium,1500,1500,95,47.0,not available,GBP,21,aster_windows_2026.pdf
+AXP-1052,NovaDoor Works,Compact Internal Door,Door,Oak,-813,1981,40,24.5,242.00,GBP,14,novadoor_catalogue.pdf
+AXP-1053,TerraTile Industries,Metro Wall Tile,Wall tile,Ceramic,300,600,8,,19.50,EUR,10,terratile_price_list.xlsx

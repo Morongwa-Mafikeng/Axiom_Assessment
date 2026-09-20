@@ -1,0 +1,45 @@
+,product_id,manufacturer,product_name,category,material,width_mm,height_mm,depth_mm,weight_kg,unit_price_gbp,currency,lead_time_days,source_document
+0,AXP-1001,Aster Build Systems,CLEARVIEW FIXED WINDOW,WINDOW,Aluminium,1200.0,1500,95,42.5,485.0,GBP,21,aster_windows_2026.pdf
+1,AXP-1002,Aster Build Systems,CLEARVIEW OPENING WINDOW,WINDOWS,aluminum,900.0,1200,95,34.2,415.0,GBP,21,aster_windows_2026.pdf
+2,AXP-1003,NovaDoor Works,OAKLINE INTERNAL DOOR,DOOR,Oak,813.0,2032,44,28.0,275.5,GBP,14,novadoor_catalogue.pdf
+3,AXP-1004,NovaDoor Works,SECURECORE EXTERNAL DOOR,DOORS,Steel,900.0,2100,55,64.8,760.0,GBP,28,novadoor_catalogue.pdf
+4,AXP-1005,TerraTile Industries,STONEGREY FLOOR TILE,FLOORING,Porcelain,600.0,600,10,8.1,24.9,GBP,10,terratile_price_list.xlsx
+6,AXP-1007,Luma Lighting,ARC PENDANT LIGHT,LIGHTING,Aluminium,420.0,310,420,3.4,189.0,GBP,18,luma_arc_datasheet.pdf
+7,AXP-1008,Luma Lighting,LINEAR OFFICE LIGHT,LIGHT,aluminium,1200.0,55,75,4.1,132.0,GBP,12,luma_linear.pdf
+9,AXP-1010,AquaForm,FLOW BASIN 550,SANITARYWARE,Ceramic,550.0,165,420,12.7,146.0,GBP,16,aquaform_basins.pdf
+10,AXP-1011,AquaForm,FLOW WC SUITE,BATHROOM,Ceramic,375.0,790,650,38.0,329.0,GBP,16,aquaform_wc.pdf
+11,AXP-1012,ThermaWall,COREBOARD 90,INSULATION,Mineral wool,1200.0,2400,90,18.5,41.2,GBP,9,thermawall_coreboard.pdf
+12,AXP-1013,ThermaWall,COREBOARD 140,INSULATION,mineral Wool,1200.0,2400,140,27.8,58.7,GBP,9,thermawall_coreboard.pdf
+13,AXP-1014,SteelSpan,UNIVERSAL BEAM 203,STRUCTURE,Steel,203.0,133,6000,152.0,286.0,GBP,30,steelspan_sections.csv
+14,AXP-1015,SteelSpan,UNIVERSAL COLUMN 254,STRUCTURAL,steel,254.0,254,6000,439.0,615.0,GBP,35,steelspan_sections.csv
+15,AXP-1016,EcoRoof Systems,GREENROOF DRAINAGE BOARD,ROOFING,HDPE,1000.0,2000,25,4.6,36.75,GBP,20,ecoroof_greenroof.pdf
+16,AXP-1017,EcoRoof Systems,STANDING SEAM PANEL,ROOF,Aluminium,500.0,3000,40,13.5,88.9,GBP,25,ecoroof_panels.pdf
+17,AXP-1018,ClimaTech,VENTPRO SUPPLY DIFFUSER,HVAC,Steel,600.0,600,80,6.2,94.0,GBP,15,climatech_ventpro.pdf
+18,AXP-1019,ClimaTech,VENTPRO RETURN GRILLE,MECHANICAL,Steel,600.0,300,50,3.1,68.0,GBP,15,climatech_ventpro.pdf
+19,AXP-1020,VoltEdge,POWERPOINT TWIN SOCKET,ELECTRICAL,Polycarbonate,86.0,86,35,0.18,9.85,GBP,7,voltedge_accessories.pdf
+20,AXP-1021,VoltEdge,LED DIMMER MODULE,ELECTRICAL,poly carbonate,86.0,86,42,0.21,27.5,GBP,7,voltedge_accessories.pdf
+21,AXP-1022,StoneCraft,QUARTZ WORKTOP ARCTIC WHITE,WORKTOP,Quartz,650.0,3000,20,97.5,425.0,GBP,22,stonecraft_quartz.pdf
+22,AXP-1023,StoneCraft,QUARTZ WORKTOP NIGHT BLACK,KITCHEN,Quartz,650.0,3000,20,98.2,449.0,GBP,22,stonecraft_quartz.pdf
+23,AXP-1024,TimberLab,ACOUSTIC SLAT PANEL,WALL FINISH,MDF and felt,600.0,2400,21,11.8,78.5,GBP,12,timberlab_acoustic.pdf
+24,AXP-1025,TimberLab,OAK VENEER WALL PANEL,WALL FINISH,Oak veneer,1200.0,2400,18,24.0,118.0,GBP,18,timberlab_panels.pdf
+25,AXP-1026,SafeGuard,FD60 FIRE DOOR SET,FIRE SAFETY,Timber composite,926.0,2040,54,61.0,895.0,GBP,35,safeguard_firedoors.pdf
+26,AXP-1027,SafeGuard,SMOKE DETECTOR OPTICAL,FIRE SAFETY,ABS,100.0,45,100,0.16,32.8,GBP,8,safeguard_detection.pdf
+27,AXP-1028,UrbanGlass,FRAMELESS BALUSTRADE PANEL,BALUSTRADE,Toughened glass,1000.0,1100,15,41.3,238.0,GBP,24,urbanglass_balustrades.pdf
+28,AXP-1029,UrbanGlass,FRAMELESS BALUSTRADE PANEL,BALUSTRADE,Toughened Glass,1000.0,1100,15,41.3,238.0,GBP,24,urbanglass_balustrades.pdf
+29,AXP-1030,HydroPipe,PPR COLD WATER PIPE,PLUMBING,Polypropylene,25.0,4000,25,0.72,8.4,GBP,6,hydropipe_ppr.csv
+30,AXP-1031,HydroPipe,PPR HOT WATER PIPE,PLUMBING,Polypropylene,32.0,4000,32,1.05,12.6,GBP,6,hydropipe_ppr.csv
+31,AXP-1032,FloorForm,RAISED ACCESS FLOOR PANEL,FLOORING,Calcium sulphate,600.0,600,32,18.9,48.0,GBP,26,floorform_raised_access.pdf
+33,AXP-1034,ShadeLine,EXTERNAL LOUVRE 200,FACADE,Aluminium,200.0,3000,45,16.2,175.0,GBP,27,shadeline_louvres.pdf
+34,AXP-1035,ShadeLine,EXTERNAL LOUVRE 300,FAÇADE,Aluminium,300.0,3000,45,21.7,205.0,GBP,27,shadeline_louvres.pdf
+35,AXP-1036,GreenFlow,RAINWATER HARVEST TANK 2500,WATER,Polyethylene,1420.0,1650,1420,92.0,680.0,GBP,20,greenflow_tanks.pdf
+36,AXP-1037,GreenFlow,RAINWATER HARVEST TANK 5000,WATER,Polyethylene,1800.0,2200,1800,155.0,1120.0,GBP,30,greenflow_tanks.pdf
+37,AXP-1038,MetroBrick,CLAY FACE BRICK RED,BRICKWORK,Clay,222.0,73,106,2.7,0.82,GBP,11,metrobrick_range.xlsx
+39,AXP-1040,FlexSeal,WEATHERPROOF JOINT SEALANT,SEALANT,Silicone,50.0,230,50,0.31,7.9,GBP,5,flexseal_products.pdf
+40,AXP-1041,FlexSeal,FIRE RATED JOINT SEALANT,FIRESTOP,Silicone,50.0,230,50,0.34,12.4,GBP,5,flexseal_products.pdf
+41,AXP-1042,SolarPeak,MONO PV PANEL 450,SOLAR,Monocrystalline silicon,1134.0,1909,35,23.5,148.0,GBP,32,solarpeak_450.pdf
+42,AXP-1043,SolarPeak,HYBRID INVERTER 8KW,ELECTRICAL,Steel and electronics,520.0,610,210,28.0,1650.0,GBP,40,solarpeak_inverters.pdf
+44,AXP-1045,QuietBuild,ACOUSTIC CEILING TILE,CEILING,Mineral fibre,600.0,600,15,3.2,11.75,GBP,13,quietbuild_ceiling.pdf
+45,AXP-1046,QuietBuild,ACOUSTIC CEILING TILE,CEILINGS,Mineral fiber,600.0,600,15,3.2,11.75,GBP,13,quietbuild_ceiling.pdf
+46,AXP-1047,ParkLine,BICYCLE RACK FIVE SPACE,EXTERNAL WORKS,Stainless steel,1800.0,800,650,34.0,245.0,GBP,17,parkline_street.pdf
+47,AXP-1048,ParkLine,TIMBER BENCH 1800,LANDSCAPE,Timber and steel,1800.0,450,520,48.0,390.0,GBP,21,parkline_street.pdf
+48,AXP-1049,AccessWay,AUTOMATIC SLIDING DOOR,ENTRANCE,Aluminium and glass,1800.0,2400,140,175.0,2750.0,GBP,45,accessway_automatic.pdf
