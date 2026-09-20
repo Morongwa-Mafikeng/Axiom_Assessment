@@ -3,7 +3,7 @@ FROM products;
 
 SELECT category,  COUNT(*) AS products_count
 FROM products
-Group By category;
+GROUP BY category;
 
 SELECT TOP 5 manufacturer,  COUNT(*) AS valid
 FROM products
