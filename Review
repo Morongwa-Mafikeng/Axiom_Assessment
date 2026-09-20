@@ -1,0 +1,13 @@
+In the column, product_id I removed rows were the ids were not available or where there dumplicates of the same id because if the id is 
+not available or duplicated then there will be misconceptions on who has purchased what and when.
+In the column, product_name I removed rows were the products were not available because that nothing was bought but I did not remove the
+duplicates because that shows how often certain products are bought which can be helpful when stocking.
+for columns where measurements need to be taken, I removed rows were the measurements were inconsistent for example the measurements are measured in 
+mm so if there is a row where a cm is shown then it has to be removed because it is not true and also if the numebers are less than or equal to zero then remove.
+The same goes for currency, our currency is measured in GBP so if the currency now in Rands or Dollars or if it is less than zero then the row is removed
+In the column, lead_time_days if the dates are less than or equal to zero and are greater than 365 days then they are removed because number of days cannot be 0 or negative and a year has atmost 365 days
+After cleaning the data I used the cleaned version of the data to investigate some queries like how many rows of the correct data is left after cleaning, how many rows are left in each category, 
+manufacturers with most valid products, the highest price of the products and which products have  lead time dates of 25 days. This query can be helpful when determining how many customers were had 
+during a certain period of time, how much money was made and when deliveries need to be made.
+
+
